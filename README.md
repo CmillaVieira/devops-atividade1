@@ -42,3 +42,8 @@ python -m pytest -v
 
 O projeto utiliza Git para registrar alterações e a convenção
 Conventional Commits para padronizar as mensagens dos commits.
+
+## Exemplo de uso
+
+A função `processar_pedido` recebe uma lista de itens
+e retorna a quantidade total de unidades e o valor do pedido.
